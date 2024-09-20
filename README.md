@@ -15,7 +15,7 @@ Interests
  * Machine learning
  * UI/UX design
 Contact
- * Email: [[email address removed]]
- * LinkedIn: [your_linkedin_profile]
+ * Email: xforce1210@gmail.com 
+
 Let's Connect!
 Feel free to reach out if you have any questions or would like to collaborate on a project.
