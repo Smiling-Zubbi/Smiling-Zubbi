@@ -1,16 +1,21 @@
-## Hi there 👋
-
-<!--
-**Smiling-Zubbi/Smiling-Zubbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there! I'm a passionate web developer with a strong interest in creating innovative and user-friendly web applications. I enjoy learning new technologies and solving complex problems.
+Skills
+ * Programming Languages: Python, JavaScript, HTML, CSS
+ * Frameworks and Libraries: React, Django, Node.js
+ * Tools and Technologies: Git, GitHub, Docker, AWS
+Projects
+E-commerce Website
+ * A full-stack web application built with Django and React.
+ * Features user authentication, product catalog, shopping cart, and payment processing.
+Personal Portfolio Website
+ * A static website showcasing my skills and projects.
+ * Built with HTML, CSS, and JavaScript.
+Interests
+ * Full-stack development
+ * Machine learning
+ * UI/UX design
+Contact
+ * Email: [[email address removed]]
+ * LinkedIn: [your_linkedin_profile]
+Let's Connect!
+Feel free to reach out if you have any questions or would like to collaborate on a project.
